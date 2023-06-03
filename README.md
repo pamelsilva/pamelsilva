@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Pâmela 👋
 
-- 🌱 I’m currently learning backend e frontend (Java//Node/Angular)
+- 👩‍💻 I’m currently learning backend e frontend (Java//Node/Angular)
 
 <center>
 <table>
